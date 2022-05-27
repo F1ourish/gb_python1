@@ -1,0 +1,14 @@
+here
+are
+some
+strings
+for
+a
+new
+file
+used
+in
+python
+homework
+number
+5

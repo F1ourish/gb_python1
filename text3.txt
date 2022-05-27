@@ -1,0 +1,4 @@
+Ivanov:17000
+Smirnov:21000
+Sobolev:19000
+Klichko:45000
